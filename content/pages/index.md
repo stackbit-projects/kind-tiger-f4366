@@ -163,7 +163,7 @@ sections:
           Eu aceito que esse formulario esta guardando minhas informacões para
           que possa entrar em contato
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium

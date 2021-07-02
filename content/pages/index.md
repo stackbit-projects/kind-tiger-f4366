@@ -48,7 +48,7 @@ sections:
           Eu faco sei la oq, para elas se sentirem melhor, e ajudalas a terem
           uma vida melhor, wkdfmaownf rioanw oifnaiownf
         actions:
-          - label: Learn More
+          - label: Saiba Mais
             url: /about
             style: secondary
             has_icon: true

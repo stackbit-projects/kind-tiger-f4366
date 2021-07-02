@@ -32,7 +32,7 @@ sections:
           relacionamento pois
           janwfjiabwhijfbajhiwfnsaweufbnajihwfbhiabwfihabwhiufbaiwf
         actions:
-          - label: See Writing Samples
+          - label: Saiba mais
             url: /faq
             style: primary
             has_icon: true

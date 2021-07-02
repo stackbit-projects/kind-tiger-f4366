@@ -5,7 +5,7 @@ sections:
     title: 'Ola, sou Egly Ramos'
     subtitle: 'Uma psicologa profissional de, faco terapia de casal, e muitas outras'
     actions:
-      - label: Contact Me
+      - label: Entrar em contato
         url: /contact
         style: primary
     image: images/hero.png

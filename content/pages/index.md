@@ -8,7 +8,7 @@ sections:
       - label: Entrar em contato
         url: /contact
         style: primary
-    image: /images/209683596_809521032897381_4087677212875788048_n.jpg
+    image: /images/wdawdasdawd.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty

@@ -25,7 +25,7 @@ sections:
     subtitle: Oque eu faco?
     features:
       - title: Psicologia de Casal
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Psicologia com casais no qual buscam um melhor relacionamento
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,

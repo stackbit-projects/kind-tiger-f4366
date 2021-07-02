@@ -44,10 +44,9 @@ sections:
         media_width: sixty
       - title: Psicologia Infantil
         subtitle: 'Cuidando de criancas, e fazendo terem um futuro melhor'
-        content: >+
+        content: >
           Eu faco sei la oq, para elas se sentirem melhor, e ajudalas a terem
-          uma vida melhor, wkdfmaownfrioanwoifnaiownf
-
+          uma vida melhor, wkdfmaownf rioanw oifnaiownf
         actions:
           - label: Learn More
             url: /about

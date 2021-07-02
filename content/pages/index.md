@@ -43,7 +43,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Psicologia Infantil
-        subtitle: Cuidando de crincas
+        subtitle: 'Cuidando de criancas, e fazendo terem um futuro melhor'
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of

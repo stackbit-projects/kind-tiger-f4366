@@ -24,7 +24,7 @@ sections:
     title: Meus Servicos
     subtitle: Oque eu faco?
     features:
-      - title: Content Creation
+      - title: Psicologia de Casal
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from

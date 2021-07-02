@@ -44,10 +44,10 @@ sections:
         media_width: sixty
       - title: Psicologia Infantil
         subtitle: 'Cuidando de criancas, e fazendo terem um futuro melhor'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Eu faco sei la oq, para elas se sentirem melhor, e ajudalas a terem
+          uma vida melhor,
+          wkdfmaownfrioanwoifnaiownfianwiofnaiowfnauisndfuiabwuifbayibfyhusbuiebfuis
         actions:
           - label: Learn More
             url: /about

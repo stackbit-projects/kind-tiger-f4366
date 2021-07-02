@@ -59,7 +59,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Psicologia adulta
-        subtitle: 'Your products and services, at scale.'
+        subtitle: 'Faca isso pelo seu futuro, e uma vida melhor'
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your

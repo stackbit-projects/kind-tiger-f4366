@@ -8,7 +8,7 @@ sections:
       - label: Entrar em contato
         url: /contact
         style: primary
-    image: /images/wdawdasdawd.png
+    image: /images/blue-cabbage.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
